@@ -1,0 +1,2 @@
+# grafanaarena
+Sandbox for Grafana
